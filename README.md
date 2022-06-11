@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tim-The-Wilson
 - 👀 I’m interested in data analysis, data science, data visualization, and in case you missed it, data anything.
 - 🌱 I’m currently learning more about the Python libraries NumPy, pandas, matplolib, and Tensorflow. 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to establish a new career in data science and maybe eventually database engineering.
 - 📫 How to reach me ...
 
 <!---
