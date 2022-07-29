@@ -1,7 +1,7 @@
 ## Hey, I'm [Tim Wilson!](https://www.linkedin.com/in/timothy-wilson-55b874163/) <img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Hi.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/timothy-wilson-55b874163/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/linkedin.png"  />
 </a>
 <!--- <a href="https:">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
