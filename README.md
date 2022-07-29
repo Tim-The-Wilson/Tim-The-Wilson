@@ -30,7 +30,7 @@
 ### My Coding experience in pictures:
 
 <p align = "center">
-        <img title="Python" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Python-logo-notext.svg" width="70" height="40" />
+        <img title="Python" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/python.svg" width="70" height="40" />
         <img title="Pandas" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Pandas_logo.svg" width="70" height="40" />
         <img title="TensorFlow" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Tensorflow_logo.svg" width="70" height="40" />
         <img title="Linux" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/linux-tux.svg" width="70" height="40" />
