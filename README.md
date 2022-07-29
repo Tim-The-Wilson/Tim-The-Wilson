@@ -27,6 +27,11 @@
 - 💞️ I’m looking to establish a new career in Data Science and maybe eventually database engineering.
 - 📫 How to reach me ...
 
+### My Recent Certifications:
+
+
+<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/U8RP4X76BFPV"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DS_PC.jpeg" width="500" height="220"></img></a>  
+
 ### My Coding experience in pictures:
 
 <p align = "center">
