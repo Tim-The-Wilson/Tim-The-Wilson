@@ -1,4 +1,4 @@
-## Hey, I'm Tim Wilson! <img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/tree/main/Assets/Hi.gif" width="30px">
+## Hey, I'm Tim Wilson! <img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Hi.gif" width="30px">
 #### A mathematician by training, but a Data Scientist in practice. 
 
 - 👋 Hi, I’m @Tim-The-Wilson
