@@ -27,15 +27,7 @@
 - 💞️ I’m looking to establish a new career in Data Science and maybe eventually database engineering.
 - 📫 How to reach me ...
 
-### My Recent Certifications:
-
-<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/U8RP4X76BFPV"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DS_PC.jpeg" width="500" height="220"></img></a>
-
-<a target="IBM Data Analyst Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/SMBN3NWKS5F6"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DA.jpeg" width="500" height="220"></img></a>
-
-<a target="DeepLearning.AI TensorFlow Developer Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/HE9XVTB2PRTR"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/DL_AI_TF_Dev.jpeg" width="500" height="220"></img></a>
-
-### My Coding experience in pictures:
+### My Languages and Tools:
 
 <p align = "center">
         <img title="Python" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/python.svg" width="70" height="40" />
@@ -47,6 +39,16 @@
         <img title="LaTeX" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/LaTeX_logo.svg" width="70" height="40" />
 
 </p>
+
+### My Recent Certifications:
+
+<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/U8RP4X76BFPV"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DS_PC.jpeg" width="500" height="220"></img></a>
+
+<a target="IBM Data Analyst Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/SMBN3NWKS5F6"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DA.jpeg" width="500" height="220"></img></a>
+
+<a target="DeepLearning.AI TensorFlow Developer Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/HE9XVTB2PRTR"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/DL_AI_TF_Dev.jpeg" width="500" height="220"></img></a>
+
+
 <!---
 Tim-The-Wilson/Tim!
 -The-Wilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
