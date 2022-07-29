@@ -7,7 +7,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> --->
 <a href="mailto:timthewilson@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/gmail.png" />
 </a>
 <!--- <a href="https://">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
