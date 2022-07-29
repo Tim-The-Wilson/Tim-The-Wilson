@@ -29,11 +29,18 @@
 
 ### My Recent Certifications:
 
-<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/U8RP4X76BFPV"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DS_PC.jpeg" width="500" height="220"></img></a>
-
-<a target="IBM Data Analyst Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/SMBN3NWKS5F6"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DA.jpeg" width="500" height="220"></img></a>
-
-<a target="DeepLearning.AI TensorFlow Developer Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/HE9XVTB2PRTR"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/DL_AI_TF.jpeg" width="500" height="220"></img></a>
+<div class="row">
+  <div class="column">
+    <a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/U8RP4X76BFPV"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DS_PC.jpeg" width="500" height="220"></img></a>
+  </div>
+  
+  <div class="column">
+    <a target="IBM Data Analyst Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/SMBN3NWKS5F6"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DA.jpeg" width="500" height="220"></img></a>
+   </div>
+   
+   <div class="column">
+    <a target="DeepLearning.AI TensorFlow Developer Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/HE9XVTB2PRTR"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/DL_AI_TF.jpeg" width="500" height="220"></img></a>
+   </div>
 
 ### My Coding experience in pictures:
 
