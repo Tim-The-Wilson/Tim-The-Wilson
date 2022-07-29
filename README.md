@@ -19,7 +19,7 @@
 <!--- All icon images are from Pixel perfect --->
 <br />
 
-#### About Me: 
+### About Me: 
 
 - 👋 I'm a mathematician, PhD in Mathematics, but I have always been drawn to Machine Learning and Data Science.
 - 👀 I’m interested in data analysis, data science, data visualization, and in case you missed it, data anything.
@@ -27,6 +27,18 @@
 - 💞️ I’m looking to establish a new career in Data Science and maybe eventually database engineering.
 - 📫 How to reach me ...
 
+### My Coding experience in pictures:
+
+<p align = "center">
+        <img title="Python" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Python-logo-notext.svg" width="70" height="40" />
+        <img title="Pandas" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Pandas_logo.svg" width="70" height="40" />
+        <img title="TensorFlow" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Tensorflow_logo.svg" width="70" height="40" />
+        <img title="Linux" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/linux-tux.svg" width="70" height="40" />
+        <img title="MySQL" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/mysql-logo.svg" width="70" height="40" />
+        <img title="HTML5" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/HTML5_logo_and_wordmark.svg" width="70" height="40" />
+        <img title="LaTeX" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/LaTeX_logo.svg" width="70" height="40" />
+
+</p>
 <!---
 Tim-The-Wilson/Tim!
 -The-Wilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
