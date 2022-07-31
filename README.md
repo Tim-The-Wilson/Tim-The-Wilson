@@ -20,7 +20,6 @@
 <br />
 
 ### About Me: 
-![image](https://user-images.githubusercontent.com/105834883/182047628-da19c311-dabf-449e-9aec-698a0be58f07.png)
 
 -  I studied Complex Dynamics in my disseration under Mariusz Urbański while studying at the University of North Texas.
 - I’m currently interested in data science, more specifically with fine-tuning deep neural networks and other machine learning applications.
