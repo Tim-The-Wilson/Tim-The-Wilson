@@ -21,11 +21,9 @@
 
 ### About Me: 
 
-- 👋 I studied Complex Dynamics in my disseration under Mariusz Urbański while studying at the University of North Texas. 
-- 👀 I’m currently interested in data science, more specifically with fine-tuning deep neural networks and investigating the endless appications of ensemble learning.
-- 🌱 I’m currently learning more about the Python libraries NumPy, pandas, matplotlib, and TensorFlow. 
-- 💞️ I’m looking to establish a new career in Data Science and maybe eventually database engineering.
-- 📫 How to reach me ...
+- I studied Complex Dynamics in my disseration under Mariusz Urbański while studying at the University of North Texas.
+- I’m currently interested in data science, more specifically with fine-tuning deep neural networks and other machine learning applications.
+- I've spent the last couple of months deeply investigating the TensorFlow library for Python, but now I am turning my attention to PyTorch to compare.
 
 ### My Languages and Tools:
 
@@ -47,6 +45,11 @@
 <a target="IBM Data Analyst Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/SMBN3NWKS5F6"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DA.jpeg" width="500" height="220"></img></a>
 
 <a target="DeepLearning.AI TensorFlow Developer Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/HE9XVTB2PRTR"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/DL_AI_TF_Dev.jpeg" width="500" height="220"></img></a>
+
+### My Hobbies and Pastime Activities:
+- 🔭 I love astronomy and stargazing. I am a novice Atrsophotographer, and I hope to start posting some of my shots on Instagram.
+- 🧗 I have been a huge fan of rock climbing for over 15 years. I am always up for a conversation on anything rock climbing, hit me up.
+-   I can't get my fill on Sci-Fi novels and TV. My current favorite is The Expanse. I am early in the novels, but I have already watched all 6 seasons of the TV show. Yes, yes, I know, I should have read them first, but sometimes we have to make sacrifices when we have small children.
 
 
 <!---
