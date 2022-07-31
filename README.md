@@ -20,8 +20,9 @@
 <br />
 
 ### About Me: 
+![image](https://user-images.githubusercontent.com/105834883/182047628-da19c311-dabf-449e-9aec-698a0be58f07.png)
 
-- I studied Complex Dynamics in my disseration under Mariusz Urbański while studying at the University of North Texas.
+-  I studied Complex Dynamics in my disseration under Mariusz Urbański while studying at the University of North Texas.
 - I’m currently interested in data science, more specifically with fine-tuning deep neural networks and other machine learning applications.
 - I've spent the last couple of months deeply investigating the TensorFlow library for Python, but now I am turning my attention to PyTorch to compare.
 
@@ -49,7 +50,7 @@
 ### My Hobbies and Pastime Activities:
 - 🔭 I love astronomy and stargazing. I am a novice Atrsophotographer, and I hope to start posting some of my shots on Instagram.
 - 🧗 I have been a huge fan of rock climbing for over 15 years. I am always up for a conversation on anything rock climbing, hit me up.
--   I can't get my fill on Sci-Fi novels and TV. My current favorite is The Expanse. I am early in the novels, but I have already watched all 6 seasons of the TV show. Yes, yes, I know, I should have read them first, but sometimes we have to make sacrifices when we have small children.
+- 📚 I can't get my fill on Sci-Fi novels and TV. My current favorite is The Expanse. I am early in the novels, but I have already watched all 6 seasons of the TV show. Yes, yes, I know, I should have read them first, but sometimes we have to make sacrifices when we have small children.
 
 
 <!---
