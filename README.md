@@ -24,7 +24,12 @@
 -  I studied Complex Dynamics in my disseration under Mariusz Urbański while studying at the University of North Texas.
 - I’m currently interested in data science, more specifically with fine-tuning deep neural networks and other machine learning applications.
 - I've spent the last couple of months deeply investigating the TensorFlow library for Python, but now I am turning my attention to PyTorch to compare.
-
+- I have a growing list of repositories with my certifcations and projects. Check back frequently as I'm literally making commits on the daily these days.
+  - [IBM Data Science Professional Certification Repo](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certification)
+<!---
+  - [IBM Data Analyst]()
+  - [DeepLearning.AI TensorFlow Developer Course]()
+--->
 ### My Languages and Tools:
 
 <p align = "center">
