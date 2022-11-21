@@ -26,8 +26,8 @@
 - I've spent the last couple of months investigating the TensorFlow library for Python, but now I am focusing my attention on NLP via LSTM RNN's. 
 - I have a growing list of repositories with my certifcations and projects. Check back frequently as I'm making commits more frequently these days.
   - [Data Science Project Portfolio](https://github.com/Tim-The-Wilson/DS_Project_Portfolio)
-  - [IBM Data Science Professional Certification Repo](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate)
   - [DeepLearning.AI TensorFlow Developer Course](https://github.com/Tim-The-Wilson/TensorFlow-Developer-Professional)
+  - [IBM Data Science Professional Certification Repo](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate)
 <!---
   - [IBM Data Analyst]()
 --->
