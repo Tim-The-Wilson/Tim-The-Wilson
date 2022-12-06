@@ -1,6 +1,6 @@
-## Hey, I'm [Tim Wilson!](https://www.linkedin.com/in/timothy-wilson-55b874163/) <img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Hi.gif" width="30px">
+## Hey, I'm [Tim Wilson!](https://www.linkedin.com/in/tim-the-wilson/) <img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Hi.gif" width="30px">
 
-<a href="https://www.linkedin.com/in/timothy-wilson-55b874163/">
+<a href="https://www.linkedin.com/in/tim-the-wilson/">
   <img align="left" width="24px" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/linkedin.png"  />
 </a>
 <!--- <a href="https:">
@@ -22,8 +22,8 @@
 ### About Me: 
 
 -  I studied Complex Dynamics in my disseration under Mariusz Urbański while studying at the University of North Texas.
-- I’m currently interested in data science, more specifically with fine-tuning deep neural networks and other machine learning applications.
-- I've spent the last couple of months investigating the TensorFlow library for Python, but now I am focusing my attention on NLP via LSTM RNN's. 
+- I’m interested in data science, more specifically with fine-tuning deep neural networks and other machine learning applications.
+- I've spent the last couple of months investigating the TensorFlow library for Python, and now I am focusing my attention on NLP via LSTM RNN's and transformers!
 - I have a growing list of repositories with my certifcations and projects. Check back frequently as I'm making commits more frequently these days.
   - [Data Science Project Portfolio](https://github.com/Tim-The-Wilson/DS_Project_Portfolio)
   - [DeepLearning.AI TensorFlow Developer Course](https://github.com/Tim-The-Wilson/TensorFlow-Developer-Professional)
