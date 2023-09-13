@@ -27,6 +27,17 @@
 -  I hope to finally have my YouTube up and running this fall, I'll be posting a full undergraduate lecture series on these topics.
 -  I'm excited to offer multiple pathways for both the stats and business math courses that include Python, R, and Excel lectures too.
 
+### Current Projects:
+- I am working on launching a YouTube channel to include lectures, notes, and practice homework and exams for courses I have taught in mathematics, statistics, python, and machine learning.
+- I am writing a sci-fi novel about a conciousness trapped in a closed multiverse.
+- Planning a community garden for the Denton area to support the local food pantry.
+- I want to learn all I need to know for working with renewable energies as much as possible.
+
+### My Hobbies and Pastime Activities:
+- 🔭 I love astronomy and stargazing. I am a novice Atrsophotographer, and I hope to start posting some of my shots on Instagram.
+- 🧗 I have been a huge fan of rock climbing for over 15 years. I am always up for a conversation on anything rock climbing, hit me up.
+- 📚 I can't get my fill on Sci-Fi novels and TV. My current favorite is The Expanse. I am early in the novels, but I have already watched all 6 seasons of the TV show. Yes, yes, I know, I should have read them first, but sometimes we have to make sacrifices when we have small children.
+
 ### My Languages and Tools:
 
 <p align = "center">
@@ -39,17 +50,6 @@
         <img title="LaTeX" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/LaTeX_logo.svg" width="70" height="40" />
 
 </p>
-
-### Current Projects:
-- I am working on launching a YouTube channel to include lectures, notes, and practice homework and exams for courses I have taught in mathematics, statistics, python, and machine learning.
-- I am writing a sci-fi novel about a conciousness trapped in a closed multiverse.
-- Planning a community garden for the Denton area to support the local food pantry.
-- I want to learn all I need to know for working with renewable energies as much as possible.
-
-### My Hobbies and Pastime Activities:
-- 🔭 I love astronomy and stargazing. I am a novice Atrsophotographer, and I hope to start posting some of my shots on Instagram.
-- 🧗 I have been a huge fan of rock climbing for over 15 years. I am always up for a conversation on anything rock climbing, hit me up.
-- 📚 I can't get my fill on Sci-Fi novels and TV. My current favorite is The Expanse. I am early in the novels, but I have already watched all 6 seasons of the TV show. Yes, yes, I know, I should have read them first, but sometimes we have to make sacrifices when we have small children.
 
 ### My Certifications:
 
