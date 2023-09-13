@@ -24,8 +24,8 @@
 -  I studied Complex Dynamics in my disseration under [Mariusz Urbański](https://www.urbanskimath.com/) while studying at the University of North Texas.
 -  But I'm really interested in data science, business analytics, and machine learning too!
 -  My favorite things to write about currently include Abstract Algebra, Statistics, Business Mathematics, and German.
--  I hope to finally have my YouTube up and running this fall, I'll be posting a full undergraduate lecture series on the above mentioned topics.
--  I'm excited to offer multiple pathways for both the statistics and business mathematics courses that include Python, R, and Excel lectures as I go.
+-  I hope to finally have my YouTube up and running this fall, I'll be posting a full undergraduate lecture series on these topics.
+-  I'm excited to offer multiple pathways for both the stats and business math courses that include Python, R, and Excel lectures too.
 
 ### My Languages and Tools:
 
