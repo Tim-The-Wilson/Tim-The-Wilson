@@ -40,19 +40,24 @@
 
 </p>
 
-### My Recent Certifications:
-
-<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/U8RP4X76BFPV"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DS_PC.jpeg" width="500" height="220"></img></a>
-
-<a target="IBM Data Analyst Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/SMBN3NWKS5F6"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DA.jpeg" width="500" height="220"></img></a>
-
-<a target="DeepLearning.AI TensorFlow Developer Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/HE9XVTB2PRTR"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/DL_AI_TF_Dev.jpeg" width="500" height="220"></img></a>
+### Current Projects:
+- I am working on launching a YouTube channel to include lectures, notes, and practice homework and exams for courses I have taught in mathematics, statistics, python, and machine learning.
+- I am writing a sci-fi novel about a conciousness trapped in a closed multiverse.
+- Planning a community garden for the Denton area to support the local food pantry.
+- I want to learn all I need to know for working with renewable energies as much as possible.
 
 ### My Hobbies and Pastime Activities:
 - 🔭 I love astronomy and stargazing. I am a novice Atrsophotographer, and I hope to start posting some of my shots on Instagram.
 - 🧗 I have been a huge fan of rock climbing for over 15 years. I am always up for a conversation on anything rock climbing, hit me up.
 - 📚 I can't get my fill on Sci-Fi novels and TV. My current favorite is The Expanse. I am early in the novels, but I have already watched all 6 seasons of the TV show. Yes, yes, I know, I should have read them first, but sometimes we have to make sacrifices when we have small children.
 
+### My Certifications:
+
+<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/U8RP4X76BFPV"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DS_PC.jpeg" width="500" height="220"></img></a>
+
+<a target="IBM Data Analyst Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/SMBN3NWKS5F6"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/IBM_DA.jpeg" width="500" height="220"></img></a>
+
+<a target="DeepLearning.AI TensorFlow Developer Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/HE9XVTB2PRTR"><img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/DL_AI_TF_Dev.jpeg" width="500" height="220"></img></a>
 
 <!---
 Tim-The-Wilson/Tim!
