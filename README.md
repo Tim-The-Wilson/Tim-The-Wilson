@@ -1,4 +1,4 @@
-## Hey, I'm [Tim Wilson!](https://timthewilson.com) <img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Hi.gif" width="30px">
+## Hey, I'm Tim Wilson! <img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Hi.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/tim-the-wilson/">
   <img align="left" width="24px" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/linkedin.png"  />
