@@ -21,16 +21,12 @@
 
 ### About Me: 
 
--  I studied Complex Dynamics in my disseration under Mariusz Urbański while studying at the University of North Texas.
-- I’m interested in data science, more specifically with fine-tuning deep neural networks and other machine learning applications.
-- I've spent the last couple of months investigating the TensorFlow library for Python, and now I am focusing my attention on NLP via LSTM RNN's and transformers!
-- I have a growing list of repositories with my certifcations and projects. Check back frequently as I'm making commits more frequently these days.
-  - [Data Science Project Portfolio](https://github.com/Tim-The-Wilson/DS_Project_Portfolio)
-  - [DeepLearning.AI TensorFlow Developer Course](https://github.com/Tim-The-Wilson/TensorFlow-Developer-Professional)
-  - [IBM Data Science Professional Certification Repo](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate)
-<!---
-  - [IBM Data Analyst]()
---->
+-  I studied Complex Dynamics in my disseration under [Mariusz Urbański](https://www.urbanskimath.com/) while studying at the University of North Texas.
+-  But I'm really interested in data science, business analytics, and machine learning too!
+-  My favorite things to write about currently include Abstract Algebra, Statistics, Business Mathematics, and German - current as of Fall 2023.
+-  I hope to finally have my YouTube up and running this fall, I'll be posting a full undergraduate lecture series on the above mentioned topics.
+-  I'm excited to offer multiple pathways for both the statistics and business mathematics courses that include Python, R, and Excel lectures as I go.
+
 ### My Languages and Tools:
 
 <p align = "center">
