@@ -22,19 +22,18 @@
 ### About Me: 
 
 -  I studied Complex Dynamics in my disseration under [Mariusz Urbański](https://www.urbanskimath.com/) while studying at the University of North Texas.
--  But I'm really interested in data science, business analytics, and machine learning too!
--  My favorite things to write about currently include Abstract Algebra, Statistics, Business Mathematics, and German.
--  I hope to finally have my YouTube up and running this fall, I'll be posting a full undergraduate lecture series on these topics.
+-  And I'm really interested in probability and statistics, predictive analytics, and machine learning too!
+-  My favorite things to write about currently include Statistics, Business Mathematics, and German.
+-  I hope to finally have my YouTube up and running this Fall 2024, I'll be posting a full undergraduate lecture series on many of these topics.
 -  I'm excited to offer multiple pathways for both the stats and business math courses that include Python, R, and Excel lectures too.
 
 ### Current Projects:
-- I am working on launching a YouTube channel to include lectures, notes, and practice homework and exams for courses I have taught in mathematics, statistics, python, and machine learning.
-- I am writing a sci-fi novel about a conciousness trapped in a closed multiverse.
-- Planning a community garden for the Denton area to support the local food pantry.
-- I want to learn all I need to know for working with renewable energies as much as possible.
+- 🌱 I am currently trying to launch a new school in Denton with my wife!
+- 🥗 I have been absorbing sustainable practices from folks all over the country, but now we plan to plant our roots and give back with farm-to-table projects in the DFW area.
 
 ### My Hobbies and Pastime Activities:
-- 🔭 I love astronomy and stargazing. I am a novice Atrsophotographer, and I hope to start posting some of my shots on Instagram.
+- 🔭 I love astronomy and stargazing. I am a novice Astrophotographer, and I post some of my shots on Instagram.
+- 🏋️ I used to lift weights, and I'm trying to get back on the bandwagon again.
 - 🧗 I have been a huge fan of rock climbing for over 15 years. I am always up for a conversation on anything rock climbing, hit me up.
 - 📚 I can't get my fill on Sci-Fi novels and TV. My current favorite is The Expanse. I am early in the novels, but I have already watched all 6 seasons of the TV show. Yes, yes, I know, I should have read them first, but sometimes we have to make sacrifices when we have small children.
 
