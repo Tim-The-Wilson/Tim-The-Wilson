@@ -23,9 +23,8 @@
 
 -  I studied Complex Dynamics in my disseration under [Mariusz Urbański](https://www.urbanskimath.com/) while studying at the University of North Texas.
 -  And I'm really interested in probability and statistics, predictive analytics, and machine learning too!
--  My favorite things to write about currently include Statistics, Business Mathematics, and German.
+-  My favorite things to write about currently include Statistics, Probability Theory, Physics, and Modern German Literature.
 -  I hope to finally have my YouTube up and running this Fall 2024, I'll be posting a full undergraduate lecture series on many of these topics.
--  I'm excited to offer multiple pathways for both the stats and business math courses that include Python, R, and Excel lectures too.
 
 ### Current Projects:
 - 🌱 I am currently trying to launch a new school in Denton with my wife!
@@ -43,7 +42,6 @@
         <img title="Python" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/python.svg" width="70" height="40" />
         <img title="Pandas" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Pandas_logo.svg" width="70" height="40" />
         <img title="TensorFlow" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Tensorflow_logo.svg" width="70" height="40" />
-        <img title="Linux" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/linux-tux.svg" width="70" height="40" />
         <img title="MySQL" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/mysql-logo.svg" width="70" height="40" />
         <img title="HTML5" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/HTML5_logo_and_wordmark.svg" width="70" height="40" />
         <img title="LaTeX" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/LaTeX_logo.svg" width="70" height="40" />
