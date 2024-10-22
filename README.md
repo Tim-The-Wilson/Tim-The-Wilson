@@ -21,19 +21,23 @@
 
 ### About Me: 
 
--  I studied Complex Dynamics in my disseration under [Mariusz Urbański](https://www.urbanskimath.com/) while studying at the University of North Texas.
--  And I'm really interested in probability and statistics, predictive analytics, and machine learning too!
--  My favorite things to write about currently include Statistics, Probability Theory, Physics, and Modern German Literature.
--  I hope to finally have my YouTube up and running this Fall 2024, I'll be posting a full undergraduate lecture series on many of these topics.
+-  🎓 I am currently pursuing an MBA with a focus on Finance, shifting my career towards financial planning, wealth management, and consulting.
+-  📊 My passion lies in helping individuals and families manage their finances effectively, with expertise in debt consolidation, financial planning, and wealth management strategies.
+-  📈 I’m working towards becoming a Certified Financial Planner (CFP), focusing on personal financial advice, retirement planning, and tax-efficient investing.
+-  💡 I enjoy using data and technology to empower clients in making informed decisions about their financial futures.
+-  📺 I plan to launch my YouTube channel soon, where I’ll post educational content on personal finance, debt management, and financial planning.
 
 ### Current Projects:
-- 🌱 I am currently trying to launch a new school in Denton with my wife!
-- 🥗 I have been absorbing sustainable practices from folks all over the country, but now we plan to plant our roots and give back with farm-to-table projects in the DFW area.
+
+- 🏦 Developing tools for individual financial planning, such as budgeting dashboards, retirement calculators, and debt consolidation strategies.
+- 📘 Writing blog posts and articles on Medium and LinkedIn, sharing tips on financial planning, wealth management, and how to navigate personal finance challenges.
+- 🎥 Preparing video tutorials on financial strategies, with a focus on accessible advice for individuals looking to improve their financial health.
 
 ### My Hobbies and Pastime Activities:
+
 - 🔭 I love astronomy and stargazing. I am a novice Astrophotographer, and I post some of my shots on Instagram.
 - 🏋️ I used to lift weights, and I'm trying to get back on the bandwagon again.
-- 🧗 I have been a huge fan of rock climbing for over 15 years. I am always up for a conversation on anything rock climbing, hit me up.
+- 🧗 Long-time rock climber, always up for a conversation on climbing and being a gear-nerd.
 - 📚 I can't get my fill on Sci-Fi novels and TV. My current favorite is The Expanse. I am early in the novels, but I have already watched all 6 seasons of the TV show. Yes, yes, I know, I should have read them first, but sometimes we have to make sacrifices when we have small children.
 
 ### My Languages and Tools:
