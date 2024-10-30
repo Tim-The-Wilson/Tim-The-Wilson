@@ -9,9 +9,9 @@
 <!--- <a href="https://">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a> --->
-<!--- <a href="https:">
+<a href="https:medium.com/@timthewilson">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a> --->
+</a>
 
 <!--- All icon images are from Pixel perfect --->
 <br />
