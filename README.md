@@ -18,17 +18,18 @@
 
 ### About Me: 
 
--  🎓 I am currently pursuing an MBA with a focus on Finance, shifting my career towards financial planning, wealth management, and consulting.
--  📊 My passion lies in helping individuals and families manage their finances effectively, with expertise in debt consolidation, financial planning, and wealth management strategies.
--  📈 I’m working towards becoming a Certified Financial Planner (CFP), focusing on personal financial advice, retirement planning, and tax-efficient investing.
--  💡 I enjoy using data and technology to empower clients in making informed decisions about their financial futures.
+-  🎓 Currently pursuing an MBA in Finance and on the lookout for remote roles in data analytics, finance, or operations. I’m focused on positions where I can leverage my skills in data science, finance, and optimization to drive strategic impact
+-  📊 Passionate about helping individuals and businesses achieve their financial goals, with expertise in financial planning, wealth management, and process optimization.
+-  📈 Aspiring Certified Financial Planner (CFP) with plans to complete the CFA as well, deepening my skills in financial analysis, budgeting, and strategic investments.
+-  💻 Experienced in applying data-driven insights to financial and operational decision-making, aiming to empower clients and companies with tailored, effective solutions.
 -  📺 I plan to launch my YouTube channel soon, where I’ll post educational content on personal finance, debt management, and financial planning.
 
 ### Current Projects:
 
-- 🏦 Developing tools for individual financial planning, such as budgeting dashboards, retirement calculators, and debt consolidation strategies.
-- 📘 Writing blog posts and articles on Medium and LinkedIn, sharing tips on financial planning, wealth management, and how to navigate personal finance challenges.
+- 🏦 Building financial planning tools, such as interactive budgeting dashboards, retirement calculators, and debt reduction models.
+- 📘 Writing articles on Medium and LinkedIn, sharing insights on financial strategies, wealth management, and analytics-driven solutions.
 - 🎥 Preparing video tutorials on financial strategies, with a focus on accessible advice for individuals looking to improve their financial health.
+- 📊 Preparing to launch an analytics consulting company, offering tailored data solutions to support clients in finance and operations.
 
 ### My Hobbies and Pastime Activities:
 
