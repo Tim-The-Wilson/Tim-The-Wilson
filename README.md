@@ -20,7 +20,7 @@
 
 -  🎓 Currently pursuing an MBA in Finance and on the lookout for remote roles in data analytics, finance, or operations. I’m focused on positions where I can leverage my skills in data science, finance, and optimization to drive strategic impact
 -  📊 Passionate about helping individuals and businesses achieve their financial goals, with expertise in financial planning, wealth management, and process optimization.
--  📈 Aspiring Certified Financial Planner (CFP) with plans to complete the CFA as well, deepening my skills in financial analysis, budgeting, and strategic investments.
+-  📈 I'm an aspiring CFA, looking to deepen my skills in financial analysis, budgeting, and strategic investments.
 -  💻 Experienced in applying data-driven insights to financial and operational decision-making, aiming to empower clients and companies with tailored, effective solutions.
 -  📺 I plan to launch my YouTube channel soon, where I’ll post educational content on personal finance, debt management, and financial planning.
 
