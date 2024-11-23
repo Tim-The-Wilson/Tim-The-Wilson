@@ -1,20 +1,10 @@
 ## Hey, I'm Tim Wilson! <img src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/Hi.gif" width="30px">
 
-<a href="https://www.linkedin.com/in/tim-the-wilson/">
-  <img align="left" width="24px" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/linkedin.png"  />
-</a>
-<a href="mailto:timthewilson@gmail.com">
-  <img align="left" width="26px" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/gmail.png" />
-</a>
-<!--- <a href="https://">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a> --->
-<a href="https://medium.com/@timthewilson">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+Welcome to my GitHub! I’m thrilled you’re here. This is where I share my projects, tools, and ideas in data analytics, finance, and operations. Whether you’re here to collaborate, learn, or just explore, I hope you find something valuable.
 
-<!--- All icon images are from Pixel perfect --->
-<br />
+
+🌐 Connect with Me:
+<a href="https://www.linkedin.com/in/tim-the-wilson/"> <img align="left" width="24px" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/linkedin.png" alt="LinkedIn" /> </a> <a href="mailto:timthewilson@gmail.com"> <img align="left" width="26px" src="https://github.com/Tim-The-Wilson/Tim-The-Wilson/blob/main/Assets/gmail.png" alt="Email" /> </a> <a href="https://medium.com/@timthewilson"> <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" /> </a> <a href="https://github.com/tim-the-wilson"> <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" /> </a> <a href="https://instagram.com/timthewilson"> <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" /> </a> <a href="https://twitter.com/timthewilson"> <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" /> </a> <a href="https://www.youtube.com/channel/yourchannel"> <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" /> </a> <br />
 
 ### About Me: 
 
