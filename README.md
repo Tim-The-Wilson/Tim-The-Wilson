@@ -35,7 +35,7 @@ Applied work in finance, data analysis, and mathematical modeling.
 
 - LinkedIn: https://www.linkedin.com/in/tim-the-wilson/
 - Email: timthewilson@outlook.com
-- Portfolio (in progress): GitHub Pages site
+- Portfolio: https://tim-the-wilson.github.io/
 
 ---
 
